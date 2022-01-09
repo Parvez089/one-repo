@@ -1,0 +1,110 @@
+body {
+  background-color: beige;
+  font-family: "Fira Sans", sans-serif;
+}
+
+.half-width {
+  width: 50%;
+  padding-left: 10%;
+  padding-bottom: 10%;
+  padding-top: 10%;
+  overflow: hidden;
+}
+
+.half-width img {
+  padding-bottom: 5px;
+  width: 50%;
+}
+.three {
+  padding: 2px 2px 2px 2px;
+  margin: 2px 2px 2px 2px;
+}
+
+.add-border {
+  border-left: 5px solid orangered;
+  padding-left: 4px;
+}
+
+.link-button {
+  text-decoration: none;
+  background-color: tomato;
+  padding: 10px 40px;
+  border-radius: 8px;
+  color: white;
+  font-weight: 700;
+}
+.fc {
+  display: flex;
+  margin-bottom: 0px;
+}
+
+.mission {
+  width: 50%;
+
+  margin-right: 1%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding-right: 1%;
+  padding-left: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-radius: 5%;
+
+  background-image: linear-gradient(rgb(162, 173, 173), rgb(162, 173, 173));
+}
+
+.flcb {
+  display: flex;
+}
+.width {
+  width: 50%;
+  padding-left: 5%;
+  padding-bottom: 2%;
+  padding-right: 10%;
+
+  padding-top: 10%;
+  font-size: 20px;
+}
+
+.width img {
+  padding-bottom: 10px;
+  width: 100%;
+}
+#two {
+  color: rgb(148, 150, 29);
+}
+
+.black {
+  background-color: black;
+  padding-bottom: 20px;
+  background-position: bottom;
+}
+.last {
+  color: blanchedalmond;
+  text-align: center;
+  overflow: hidden;
+}
+
+.bold {
+  font-size: 80px;
+}
+cent {
+  padding-right: 40%;
+}
+
+.one {
+  width: 50%;
+  padding-left: 10%;
+  padding-bottom: 10%;
+  padding-top: 10%;
+  overflow: hidden;
+}
+.rr {
+  color: white;
+}
+.pp {
+  color: brown;
+}
+#white {
+  color: rgb(129, 90, 37);
+}
